@@ -1,7 +1,17 @@
-# ejercicio-1
+# Ejercicio - 1
 
-Ejercicio Nº1
+Inicio: Suma de dos números
 
-- Item 1
-- Item 2
-- Item 3
+## Ingreso datos
+- numero1
+- numero2
+- resultado
+
+## Proceso
+
+- Pedir numero1
+- Pedír numero2
+- Sumar numero1 y numero2 y almacenar en resultado
+- Mostrar resultado
+
+*Fin*
