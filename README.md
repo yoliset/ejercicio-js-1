@@ -11,7 +11,7 @@ Inicio: Suma de dos números
 
 - Pedir numero1
 - Pedír numero2
-- Sumar numero1 y numero2 y almacenar en resultado
+- Sumar numero1 con numero2 y almacenar en resultado
 - Mostrar resultado
 
 *Fin*
